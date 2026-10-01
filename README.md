@@ -2,7 +2,7 @@
 
 ![Java](https://img.shields.io/badge/Java-17-orange)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-4.1.0-brightgreen)
-![Build](https://img.shields.io/badge/build-passing-success)
+[![CI](https://github.com/JakiWZ/libreria-api/actions/workflows/ci.yml/badge.svg)](https://github.com/JakiWZ/libreria-api/actions/workflows/ci.yml)
 
 **🌐 Language / Lingua:** [English](#english) | [Italiano](#italiano)
 
